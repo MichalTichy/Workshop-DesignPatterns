@@ -1,0 +1,16 @@
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\bin\Debug\net7.0\AbstractFactory.exe
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\bin\Debug\net7.0\AbstractFactory.deps.json
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\bin\Debug\net7.0\AbstractFactory.runtimeconfig.json
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\bin\Debug\net7.0\AbstractFactory.dll
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\bin\Debug\net7.0\AbstractFactory.pdb
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.AssemblyReference.cache
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfoInputs.cache
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfo.cs
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.sourcelink.json
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.dll
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\obj\Debug\net7.0\refint\AbstractFactory.dll
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.pdb
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.genruntimeconfig.cache
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\AbstractFactory\obj\Debug\net7.0\ref\AbstractFactory.dll

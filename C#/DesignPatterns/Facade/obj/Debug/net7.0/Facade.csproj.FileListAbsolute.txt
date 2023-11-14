@@ -1,0 +1,16 @@
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\bin\Debug\net7.0\Facade.exe
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\bin\Debug\net7.0\Facade.deps.json
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\bin\Debug\net7.0\Facade.runtimeconfig.json
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\bin\Debug\net7.0\Facade.dll
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\bin\Debug\net7.0\Facade.pdb
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\obj\Debug\net7.0\Facade.csproj.AssemblyReference.cache
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\obj\Debug\net7.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\obj\Debug\net7.0\Facade.AssemblyInfoInputs.cache
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\obj\Debug\net7.0\Facade.AssemblyInfo.cs
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\obj\Debug\net7.0\Facade.csproj.CoreCompileInputs.cache
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\obj\Debug\net7.0\Facade.sourcelink.json
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\obj\Debug\net7.0\Facade.dll
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\obj\Debug\net7.0\refint\Facade.dll
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\obj\Debug\net7.0\Facade.pdb
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\obj\Debug\net7.0\Facade.genruntimeconfig.cache
+E:\Backup\Skolení\EmbedIt\materials\labs\14-Design_Patterns\DesignPatterns\Facade\obj\Debug\net7.0\ref\Facade.dll

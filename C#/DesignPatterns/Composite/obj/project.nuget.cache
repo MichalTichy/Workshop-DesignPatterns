@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tz4hgVAUsU1BDrC3wmS7SxlDjoXeWRroiboT+Vq7qZI4HFHb0UzdPgJBkXiaeZAWY7//kcg1V112VMKzCLUrpg==",
+  "success": true,
+  "projectFilePath": "E:\\Backup\\Skolení\\_Slide decks\\Design Patterns\\Labs\\DesignPatterns\\Composite\\Composite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\email\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\email\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\email\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.12\\microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\email\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.12\\microsoft.netcore.app.host.win-x64.7.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
